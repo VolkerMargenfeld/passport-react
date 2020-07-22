@@ -18,7 +18,8 @@
     "passport-google-oauth20": "^2.0.0",
     "passport-instagram": "^1.0.0",
     "passport-spotify": "^1.0.1",
-    "passport-twitch.js": "0.0.7"
+    "passport-twitch.js": "0.0.7",
+    "pm2": "^4.4.0"
   },
   "scripts": {
     "start": "run-p start:** server",
